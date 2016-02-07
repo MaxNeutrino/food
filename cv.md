@@ -10,10 +10,11 @@
 -  <a href="http://habrahabr.ru/post/184372/">Резюме программистов. Часть 2 (хорошие)</a>
 
 ### Интервью:
-Михаил Портнов про устройство на работу:
+- Михаил Портнов про устройство на работу:
 - <a href="https://www.youtube.com/watch?v=Deb5wMHjBHY">Собеседование на работу: как продать себя грамотно</a>
 - <a href="https://www.youtube.com/watch?v=qKsc8PoHJwM">Какие вопросы мы задаем на собеседовании?</a>
 - <a href="https://www.youtube.com/playlist?list=PL7XXjge0nKZczMtQbNk9c2cplvuLZomTh">Канал: Резюме, поиск работы, интервью</a>
+
 
 -  <a href="https://www.youtube.com/watch?v=ft0Nj8Cm9kk">Яков Файн: Как стать профессиональным Java разработчиком</a>
 -  <a href="http://www.quizful.net/test">Quizful- тесты онлайн</a>
