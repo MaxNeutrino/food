@@ -10,6 +10,7 @@
 -  <a href="http://enjoy-job.ru/trudoustroistvo/kak-pravilno-sostavit-rezume/">Как правильно составить резюме</a>
 -  <a href="http://habrahabr.ru/post/184332/">Резюме программистов. Часть 1 (плохие)</a>
 -  <a href="http://habrahabr.ru/post/184372/">Резюме программистов. Часть 2 (хорошие)</a>
+-  <a href="http://skyeng.ru/articles/sostavte-rezyume-na-anglijskom-450-primerov">Как составить резюме на английском</a>
 
 ### Интервью:
 - <a href="https://www.youtube.com/watch?v=Deb5wMHjBHY">Михаил Портнов. Собеседование на работу: как продать себя грамотно</a>
