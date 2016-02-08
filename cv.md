@@ -2,9 +2,11 @@
 
 ![cv](https://cloud.githubusercontent.com/assets/13649199/10877471/93ea86b8-8157-11e5-9bfa-95e3fba75c58.jpg)
 
-### Составление резюме:
--  <a href="http://lifehacker.ru/2015/04/07/33-lajfhaka-dlya-rezyume/">Как продать свое резюме в 2 раза дороже</a>
 -  <a href="http://habrahabr.ru/company/ua-hosting/blog/272617/">Научиться программировать сложнее, чем кажется</a>
+
+### Составление резюме:
+-  <a href="http://ain.ua/2015/01/14/558261">Идеальное резюме Junior’а</a>
+-  <a href="http://lifehacker.ru/2015/04/07/33-lajfhaka-dlya-rezyume/">Как продать свое резюме в 2 раза дороже</a>
 -  <a href="http://enjoy-job.ru/trudoustroistvo/kak-pravilno-sostavit-rezume/">Как правильно составить резюме</a>
 -  <a href="http://habrahabr.ru/post/184332/">Резюме программистов. Часть 1 (плохие)</a>
 -  <a href="http://habrahabr.ru/post/184372/">Резюме программистов. Часть 2 (хорошие)</a>
@@ -21,7 +23,7 @@
 -  email, skype - очень желательно, чтобы по ним вы были узнаваемы. Заведите рабочие, если не так.
 -  написать ВЕСЬ IT опыт (исключая опыт пользователя: Windows, MS Word, Photophop, Yandex disk, Google docs, ..): технологии, какие задачи решали (конкретные), какие инструменты использовали, VCS, DB, инструменты сборки, ... включая опыт в ВУЗе.
 -  на English иметь желательно. Если вакансия опублинована на Englsih - шлите на нем. Часто могут на нем попросить, если работодатель иностранный.
--  формат: pdf или doc на мой взгляд не так важно. doc нарпимер в USA любят, я - нет:) На мой взгляд удобно иметь резюме где то в инете (hh, linkedin, google doc, чтобы им было удобно делиться).
+-  удобно иметь резюме где то в инете (hh, linkedin, google doc, чтобы им было удобно делиться).
 
 ### Позиционирование <a href="https://github.com/JavaOPs/topjava/blob/master/description.md">проекта Topjava</a>:
 -  После завершения проекта вы освоите все заявленные в нем технологии - вставьте в квалификацию (включая java 8 Stream and Time API)
