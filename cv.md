@@ -19,6 +19,7 @@
 -  <a href="https://www.youtube.com/watch?v=ft0Nj8Cm9kk">Яков Файн: Как стать профессиональным Java разработчиком</a>
 -  <a href="http://www.quizful.net/test">Quizful- тесты онлайн</a>
 -  <a href="https://github.com/MaximAbramchuck/awesome-interviews#java">Сборка по вопросам на интервью</a>
+-  <a href="http://habrahabr.ru/post/181033/">Тест на знание SQL</a>
 
 ### От себя:
 -  email, skype - очень желательно, чтобы по ним вы были узнаваемы. Заведите рабочие, если не так.
