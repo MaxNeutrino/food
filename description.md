@@ -20,7 +20,7 @@ Hibernate, делаем конверторы для типов LocalDateTime (Ja
 -  Системы управления версиями
 -  Java 8: Lambda, Stream API
 -  Обзор используемых в проекте технологий и инструментов.
--  <a href="https://drive.google.com/open?id=0B9Ye2auQ_NsFZFBuZVRKNU5Kb3c">Инструменты сборки Maven.</a>
+-  <a href="https://drive.google.com/open?id=0B9Ye2auQ_NsFZFBuZVRKNU5Kb3c">Инструмент сборки Maven.</a>
 -  WAR. Веб-контейнер Tomcat. Сервлеты.
 -  Логирование.
 -  Обзор стандартных библиотек. Apache Commons, Guava
