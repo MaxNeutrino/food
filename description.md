@@ -14,7 +14,6 @@ Hibernate, делаем конверторы для типов LocalDateTime (Ja
             вместе с Spring Security Test, наиболее удобный для работы с базой проект Spring Data Jpa, библиотека логирования logback, реализующая SLF4J, повсеместно используемый Bootstrap и jQuery.
 
 #### <a href="http://topjava.herokuapp.com/" target=_blank>Демо разрабатываемого приложения</a>
-#### <a href="https://github.com/JavaOPs/topjava">Вводное занятие</a>
 
 ## Архитектура проекта. Персистентность.
 -  Системы управления версиями
