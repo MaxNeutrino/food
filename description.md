@@ -20,23 +20,23 @@ Hibernate, делаем конверторы для типов LocalDateTime (Ja
 -  Системы управления версиями
 -  Java 8: Lambda, Stream API
 -  Обзор используемых в проекте технологий и инструментов.
--  Maven, другие инструменты сборки.
+-  <a href="https://drive.google.com/open?id=0B9Ye2auQ_NsFZFBuZVRKNU5Kb3c">Инструменты сборки Maven.</a>
 -  WAR. Веб-контейнер Tomcat. Сервлеты.
 -  Логирование.
 -  Обзор стандартных библиотек. Apache Commons, Guava
 -  Слои приложения. Создание каркаса приложения.
 -  Обзор Spring Framework. Spring Context.
 -  Тестирование через JUnit.
--  Spring Test
+-  <a href="https://drive.google.com/file/d/0B9Ye2auQ_NsFai1veG9qaFZlZ2s/view">Spring Test</a>
 -  Базы данных. PostgreSQL. Обзор NoSQL и Java persistence solution без ORM.
 -  Настройка Database в IDEA.
 -  Скрипты инициализации базы. Spring Jdbc Template.
--  Spring: инициализация и популирование DB
+-  <a href="https://drive.google.com/file/d/0B9Ye2auQ_NsFU0Z2R190eDllYmM/view">Spring: инициализация и популирование DB</a>
 -  ORM. Hibernate. JPA.
 -  Поддержка HSQLDB
 -  Транзакции
 -  Профили Maven и Spring
--  Пул коннектов
+-  <a href="https://drive.google.com/open?id=0B9Ye2auQ_NsFTWJOdHduOWtNcTA">Пул коннектов</a>
 -  Spring Data JPA
 -  Кэш Hibernate
 
@@ -60,8 +60,8 @@ Hibernate, делаем конверторы для типов LocalDateTime (Ja
 -  Работа с Datatables через Ajax.
 -  Spring Security Test
 -  Encoding password
--  CSRF
+-  <a href="https://drive.google.com/file/d/0B9Ye2auQ_NsFNDlPZGdUNThzNUU/view">CSRF (добавление в Spring проект защиты от межсайтовой подделки запроса)</a>
 -  form-login. Spring Security Taglib
 -  Handler interceptor
 -  Spring Exception Handling
--  Деплой в Heroku
+-  <a href="https://drive.google.com/open?id=0B9Ye2auQ_NsFZkpVM19QWFBOQ2c">Деплой в Heroku</a>
